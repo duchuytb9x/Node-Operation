@@ -28,7 +28,7 @@ wget -O run.sh https://raw.githubusercontent.com/papadritta/gear-m/main/box/run.
 >Build from source
 >Script work correctly if you used source script run.sh for installation
 ```
-wget -O update.sh https://raw.githubusercontent.com/papadritta/gear-m/main/box/update.sh  && chmod +x update.sh && ./update.sh
+wget -O update.sh https://raw.githubusercontent.com/duchuytb9x/Node-Operation/main/GearV7.sh  && chmod +x update.sh && ./update.sh
 ```
 ## 3. Additional commands:
 
